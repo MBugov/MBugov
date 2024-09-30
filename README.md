@@ -21,3 +21,6 @@
 ![React](https://img.shields.io/badge/REact-000?style=for-the-badge&logo=React&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/MBugov)
+
+# Linguagens de Programação mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MBugov&bg_color=000&border_color=9C5EF2&title_color=9C5EF2&text_color=FFF)
